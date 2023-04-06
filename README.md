@@ -23,10 +23,8 @@ Festick.com is a website that provides various kinds of concert tickets. Users c
 
 ### Built With
 * [![Vue][Vue.js]][Vue-url]
-* [![Vue][Vue.js]][https://v2.vuejs.org/]
-* [![Laravel][Laravel.com]][https://laravel.com/]
-* [![Bootstrap][Bootstrap.com]][https://getbootstrap.com/]
-
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 ## Getting Started
 This section describes how to run a Festick website.
@@ -82,3 +80,11 @@ This section describes how to run a Festick website.
    npm run watch
    ```
 - After Laravel and Vue running. Use https://localhost:8000 and Voilà
+
+
+[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel-url]: https://laravel.com](https://laravel.com
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://v2.vuejs.org
