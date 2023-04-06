@@ -69,11 +69,11 @@ This section describes how to run a Festick website.
    ```
 - Generate seeder for data dummy that you can use to manipulate database using this command
    ```sh
-   npm install
+    php artisan db:seed
    ```
 - Split VSCode terminal, in terminal 1. Write this code to run Laravel Backend
    ```sh
-   php artisan db:seed
+   php artisan serve
    ```
 - In terminal 2, write this code to run Vue Frontend
    ```sh
