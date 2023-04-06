@@ -22,9 +22,9 @@ Festick.com is a website that provides various kinds of concert tickets. Users c
 - Transaction Refund List page -> displays transaction list data with refund status
 
 ### Built With
-* [![Vue][Vue.js]][Vue-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![Vue][Vue.js]][https://v2.vuejs.org/]
+* [![Laravel][Laravel.com]][https://laravel.com/]
+* [![Bootstrap][Bootstrap.com]][https://getbootstrap.com/]
 
 
 ## Getting Started
@@ -36,6 +36,7 @@ This section describes how to run a Festick website.
 * PHP Version Greater than 8
 * Laragon Tools for SQL Server or XAMPP Tools
 * Vue 2
+* Code Editor: VSCode or any IDE
 
 ### Installation
 - Clone the repository
