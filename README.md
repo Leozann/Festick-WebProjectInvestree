@@ -79,7 +79,7 @@ This section describes how to run a Festick website.
    ```sh
    npm run watch
    ```
-- After Laravel and Vue running. Use https://localhost:8000 and Voilà
+- After Laravel and Vue running. Open your browser and use https://localhost:8000. Voilà🔥🔥
 
 
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
