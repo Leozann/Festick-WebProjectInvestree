@@ -1,5 +1,5 @@
 # About The Project
-Festick.com is a website that provides various kinds of concert tickets. Users can choose the ticket and the amount they want. This Festick website is the final project at Investree.
+Festick.com is a website that provides various kinds of concert tickets. Users can choose the ticket and the amount they want. This Festick website is the final project at Investree. This project was developed for one month in November 2022 with three people in one team.
 
 ## Festick's features include:
 ### Users
@@ -59,10 +59,10 @@ This section describes how to run a Festick website.
    php artisan key:generate
    ```
 - Run your SQL Server and Create Database
-- In .env file inside this project, config this section and relate it to the one on the database server
-    DB_DATABASE= your_database_name
-    DB_USERNAME= your_username
-    DB_PASSWORD= your_password
+- In .env file inside this project, config this section and relate it to the one on the database server<br/>
+    DB_DATABASE= your_database_name<br/>
+    DB_USERNAME= your_username<br/>
+    DB_PASSWORD= your_password<br/>
 - After that do the migration with this command
    ```sh
    php artisan migrate
